@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Flatdoc
 =======
 
@@ -311,3 +312,9 @@ License](http://www.opensource.org/licenses/mit-license.php).
 [template]: https://github.com/rstacruz/flatdoc/raw/gh-pages/templates/template.html
 [blank]: https://github.com/rstacruz/flatdoc/raw/gh-pages/templates/blank.html
 [dist]: https://github.com/rstacruz/flatdoc/tree/gh-pages/v/0.8.0
+=======
+cranca.github.io
+================
+
+Documentación
+>>>>>>> 119229663263ebc9cc1e5cfa4ad07c11ec697fd2
